@@ -7,7 +7,6 @@
 <p align='center'>
 
   [![visitors](https://visitor-badge.glitch.me/badge?page_id=ajinkya-95.ajinkya-95)](https://visitor-badge.glitch.me/badge?page_id=ajinkya-95.ajinkya-95)
-  [![wakatime](https://wakatime.com/badge/user/380570cf-30bd-4b71-8ac3-ea422ccb6dff.svg)](https://wakatime.com/@380570cf-30bd-4b71-8ac3-ea422ccb6dff)
 </p>
 
 
