@@ -1,3 +1,4 @@
+<!--
 <div align="center">
   <b><div align="center">May the &#70; &#61; <em>m</em> &#183; &part;&#651; &#8725; &part;&#648; , be with you </div></b>
 <img width="100%" height = "100%" src="https://cdn.pixabay.com/photo/2017/10/10/15/31/spaceship-2837606_960_720.png" alt="cover" aligh="center" />
@@ -27,7 +28,7 @@ How to reach me: <a href='mailto:ajinkyabhandare2022@gmail.com'>ajinkyabhandare2
 Also, my <a href="https://about.me/ajinkyabhandare/">about.me</a> handle is <a href="https://about.me/ajinkyabhandare/edit">ajinkyabhandare</a>.
 
 <br>
-
+-->
 
 <!--
 **ajinkya-101/ajinkya-101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
