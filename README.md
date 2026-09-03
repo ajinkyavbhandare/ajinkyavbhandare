@@ -30,7 +30,8 @@ Software Engineer,
 
 I build machine-learning systems and the software around them.
 
-My work combines ML engineering and systems engineering, spanning language models, retrieval, computer vision, inference, data processing, backend services, and infrastructure.
+My work combines ML engineering and systems engineering, spanning language models, retrieval, computer vision, inference,
+data processing, backend services, and infrastructure.
 
 I work on:
 
